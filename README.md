@@ -17,8 +17,8 @@ You need python 3.11 and [uv](https://docs.astral.sh/uv/).
 Clone the repository:
 
 ```bash
-git clone git@github.com:hoshicasia/ML_eng_practice.git
-cd ML_eng_practice
+git clone git@github.com:hoshicasia/ML-engineering-practice.git
+cd ML-engineering-practice
 ```
 Install dependencies from the lock file:
 
